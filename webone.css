@@ -1,0 +1,18 @@
+@media(min-width: 768px) {
+    .edit1 {
+        width: 50%;
+    }
+}
+
+.high {
+    text-decoration: none;
+    color: black;
+}
+
+.shift {
+    margin-left: 25px;
+}
+
+.shift1 {
+    margin-top: -25px;
+}
